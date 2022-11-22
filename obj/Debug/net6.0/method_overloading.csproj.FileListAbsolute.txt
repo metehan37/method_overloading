@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\bin\Debug\net6.0\method_overloading.exe
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\bin\Debug\net6.0\method_overloading.deps.json
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\bin\Debug\net6.0\method_overloading.runtimeconfig.json
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\bin\Debug\net6.0\method_overloading.dll
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\bin\Debug\net6.0\method_overloading.pdb
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\method_overloading.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\method_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\method_overloading.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\method_overloading.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\method_overloading.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\method_overloading.dll
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\refint\method_overloading.dll
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\method_overloading.pdb
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\method_overloading.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Pratikler\method_overloading\obj\Debug\net6.0\ref\method_overloading.dll
